@@ -3,7 +3,7 @@
 **Kai** - Your batteries at a glance. ($0.99 on Chariz)  
 **Folded** - Folders, your way. (Free on Packix)  
 **Aperio** - A beautiful app launcher for your home screen. ($0.99 on Dynastic)  
-**Ash** - Visualize your non-used apps. (Free on Chariz)  
+**Ash** - Visualize your unused apps. (Free on Chariz)  
 
 ## Upcoming
 **Project Indy** - Status bar, but better. (Undecided)  
