@@ -7,7 +7,7 @@
 
 <a href="https://chariz.com/get/ash">**Ash**</a> - Visualize your unused apps. (Free on Chariz)  
 
-<a href="https://repo.dynastic.co/package/aperio">**Aperio**</a> - A beautiful app launcher for your home screen. ($0.99 on Dynastic)  
+<a href="https://repo.dynastic.co/package/aperio">**Aperio**</a> - A beautiful app launcher for your lock screen. ($0.99 on Dynastic)  
 
 ## Upcoming
 **Project Indy** - Status bar, but better. (Undecided)  
