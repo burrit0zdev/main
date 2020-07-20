@@ -8,7 +8,7 @@
 **Project Indy** - Status bar, but better. (Undecided)  
 
 ## Beta Repo
-<a href=https://beta.burrit0z.dev>Click here to visit my Beta repo.  </a>
+https://beta.burrit0z.dev
 
 ## Contact Me
 Twitter - @burrit0ztweaks  
